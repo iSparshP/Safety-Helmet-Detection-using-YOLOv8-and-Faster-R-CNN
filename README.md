@@ -57,14 +57,7 @@ The Safety Helmet Detection system using YOLOv8 and Faster R-CNN can be used in 
 Remember, the goal of this project is to enhance workplace safety by ensuring the use of safety helmets, potentially preventing accidents and saving lives.
 
 ## Results
-
-Show some results, if possible. You can include images or videos here.
-
-## Contributing
-
-Let people know how they can contribute into your project. A contributing guideline will be a big plus.
-
-## License
+![output](https://github.com/iSparshP/Safety-Helmet-Detection-using-YOLOv8-and-Faster-R-CNN/assets/77487266/86a0fce5-bdc5-43e5-8d4d-ca2dd23d2f74)
 
 ## License
 
