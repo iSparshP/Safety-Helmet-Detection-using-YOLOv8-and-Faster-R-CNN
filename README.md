@@ -70,7 +70,7 @@ Let people know how they can contribute into your project. A contributing guidel
 
 This project is open for use by anyone. You are free to clone, modify, and distribute this project as you see fit. Please note that this project comes with no warranty.
 
-For more details, please refer to the [LICENSE]((https://github.com/iSparshP/Safety-Helmet-Detection-using-YOLOv8-and-Faster-R-CNN/blob/main/LICENSE)) file in the project repository.
+For more details, please refer to the [LICENSE][(https://github.com/iSparshP/Safety-Helmet-Detection-using-YOLOv8-and-Faster-R-CNN/blob/main/LICENSE)] file in the project repository.
 
 ## Acknowledgments
 
