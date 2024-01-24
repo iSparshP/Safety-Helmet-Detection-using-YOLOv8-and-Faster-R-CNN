@@ -58,6 +58,8 @@ Remember, the goal of this project is to enhance workplace safety by ensuring th
 
 ## Results
 ![output](https://github.com/iSparshP/Safety-Helmet-Detection-using-YOLOv8-and-Faster-R-CNN/assets/77487266/86a0fce5-bdc5-43e5-8d4d-ca2dd23d2f74)
+https://github.com/iSparshP/Safety-Helmet-Detection-using-YOLOv8-and-Faster-R-CNN/assets/77487266/bb49ab72-8b20-4fa5-8c1a-5d0771dbed44
+
 
 ## License
 
