@@ -30,11 +30,15 @@ Before you begin, ensure you have met the following requirements:
 
 4. **Navigate to the Project Directory:** Change your current directory to the project directory:
 
-```bash cd Safety-Helmet-Detection-using-YOLOv8-and-Faster-R-CNN``
+   ```bash
+   cd Safety-Helmet-Detection-using-YOLOv8-and-Faster-R-CNN
+
 
 5. **Install Required Libraries:** Install the necessary Python libraries and frameworks using pip:
 
-```bashpip install torchvision opencv-python numpy matplotlib``
+   ```bash
+   pip install torchvision opencv-python numpy matplotlib
+
 
 6. **Download Pre-trained Models:** Download the pre-trained YOLOv8 and Faster R-CNN models and place them in the `models/` directory.
 
@@ -75,3 +79,4 @@ I would like to express my gratitude to the following individuals and institutio
 * **Priyam Dalmia** - for their invaluable guidance and support throughout the project.
 
 I would also like to acknowledge the creators and the community of the open-source libraries and frameworks used in this project, including PyTorch, OpenCV, and the YOLOv8 and Faster R-CNN models. Their work has made this project possible.
+
